@@ -1,6 +1,6 @@
 {
     "name": "@phosfato/nativescript-facebook",
-    "version": "4.2.2",
+    "version": "4.2.3",
     "description": "NativeScript plugin, wrapper of native Facebook SDK for Android and iOS.",
     "nativescript": {
         "platforms": {
